@@ -1,7 +1,15 @@
-# 👋 Hi, I'm Saransh!
+<h1 align="center">Hi 👋, I'm Saransh Chouhan</h1>
+<h3 align="center">Experienced Salesforce Developer skilled in Apex, Visualforce, LWC, APIs, automation, and seamless integrations.</h3>
 
-## 🚀 About Me
-I am a Salesforce Developer with expertise in building scalable and efficient solutions using the Salesforce platform. I specialize in Apex, Visualforce, Lightning Components, and Lightning Web Components (LWC). My experience includes working with APIs, automation tools, and data management, ensuring optimal performance and seamless integrations.
+- 🌱 I’m currently learning **AI-driven automation and advanced Salesforce analytics.**
+- 👯 I’m looking to collaborate on **Salesforce automation, AI integrations, and enterprise solutions.**
+- 🤝 I’m looking for help with **enhancing API integrations and optimizing Salesforce performance.**
+- 💬 Ask me about **Salesforce development, custom workflows, and API integrations.**
+- ⚡ Fun fact **I can debug Apex code faster than I finish my coffee! ☕**
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saransh-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="saransh-addweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saransh-addweb" alt="saransh-addweb" /></a> </p>
 
 ## 🎯 Technical Skills
 
@@ -56,12 +64,5 @@ I am a Salesforce Developer with expertise in building scalable and efficient so
 
 ## 🔗 Salesforce Account
 [Trailblazer Profile](https://www.salesforce.com/trailblazer/saransh123)
-
-## 📫 Contact
-Feel free to reach out for collaborations, discussions, or opportunities!
-
-📧 Email: [Your Email]
-💼 LinkedIn: [Your LinkedIn Profile]
-
 ---
 🚀 Passionate about Salesforce, innovation, and continuous learning!
